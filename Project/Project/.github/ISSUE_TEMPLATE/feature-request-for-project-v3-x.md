@@ -1,5 +1,5 @@
 ---
-name: Feature request for AdminLTE v3.x
+name: Feature request for Project v3.x
 about: Suggest an idea for this project
 title: "[FEATURE]"
 labels: type:enhancement, version:3.x

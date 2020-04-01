@@ -1,8 +1,8 @@
 ---
-name: Bug report for AdminLTE v2.4.x
-about: Create a report to help us improve AdminLTE v2.4.x
+name: Bug report for Project v2.x
+about: Create a report to help us improve Project v2.x
 title: "[BUG]"
-labels: type:bug, version:2.4.x
+labels: type:bug, version:3.x
 assignees: ''
 
 ---
@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Environment (please complete the following information):**
- - AdminLTE Version: [e.g. v2.4.18]
+ - Project Version: [e.g. v3.0.0]
  - Operating System:  [e.g. macOS Catalina]
  - Browser (Version): [e.g. Chrome (Latest)]
 
