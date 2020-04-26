@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Javascript Program</title>
+</head>
+<body>
+    <h1 style="position: center;">This program will accept two integers and display the larger integer</h1>
+
+</body>
+<script type="text/javascript">
+	    
+ var num1, num2;
+       num1 = window.prompt("Enter first integer", "0");
+       num2 = window.prompt("Enter second integer", "0");
+       if (parseInt(num1, 10) > parseInt(num2, 10))
+       {
+       	alert("The larger of "+ num1+ " and "+ num2+ " is "+ num1+ ".");
+       }
+       else
+       	if(parseInt(num2, 10) > parseInt(num1, 10))
+       	{
+       		alert("The larger of "+ num1+ " and "+ num2+ " is "+ num2+ ".");
+       	}
+       	else
+       	{
+       		alert("The values "+ num1+ " and "+num2+ " are equal.");
+       	}
+</script>
+</html>
